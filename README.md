@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/React-Intermediate-lightgrey)
 ![Node](https://img.shields.io/badge/Node-Expert-red)
 
-Computer Science student at [Sister Nivedita University](https://snuniv.ac.in/). Full-Stack Web developer with passion for Football and a Huge Fan of # Cristiano Ronaldo. Proudly from [Kolkara, India](https://goo.gl/maps/NVbn5HYBmpu4deXC6) 🇮🇹
+Computer Science student at [Sister Nivedita University](https://snuniv.ac.in/). Full-Stack Web developer with passion for Football and a Huge Fan of Cristiano Ronaldo. Proudly from [Kolkara, India](https://goo.gl/maps/NVbn5HYBmpu4deXC6) 🇮🇳
 
 - 🔭 I’m currently studying **Computer Science** at SNU
 - 🌱 I’m currently learning **Machine Learning** and Practicing **Full Stack Web Development**
@@ -19,6 +19,8 @@ Computer Science student at [Sister Nivedita University](https://snuniv.ac.in/).
 - GitHub: [https://github.com/banerjeePrayas][github]
 - LinkedIn: [https://www.linkedin.com/in/prayas-banerjee/][LinkedIn]
 - Site: [https://banerjeeprayas.github.io/][site]
+- Instagram: [https://www.instagram.com/itsme_prayas/][Instagram]
+- Facebook: [https://www.facebook.com/rupanreal7/][Facebook]
 - E-mail: banerjeeprayas.Work@outlook.com
 
 ### 📚 Looking for my Resume? E-Mail me!
