@@ -16,7 +16,7 @@ Computer Science student at [Sister Nivedita University](https://snuniv.ac.in/).
 
 ### 📬 Get in Touch
 
-- http://i.imgur.com/0o48UoR.png GitHub: [https://github.com/banerjeePrayas][github]
+- GitHub: [https://github.com/banerjeePrayas][github]
 - LinkedIn: [https://www.linkedin.com/in/prayas-banerjee/][linkedIn]
 - Site: [https://banerjeeprayas.github.io/][site]
 - Instagram: [https://www.instagram.com/itsme_prayas/][instagram]
