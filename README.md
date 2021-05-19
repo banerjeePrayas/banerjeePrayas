@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/React-Intermediate-lightgrey)
 ![Node](https://img.shields.io/badge/Node-Expert-red)
 
-Computer Science student at [Sister Nivedita University](https://snuniv.ac.in/). Full-Stack Web developer with passion for Football and a Huge Fan of Cristiano Ronaldo. Proudly from [Kolkata, India](https://goo.gl/maps/NVbn5HYBmpu4deXC6) 🇮🇳
+Computer Science Student at [Sister Nivedita University](https://snuniv.ac.in/). Full-Stack Web developer with passion for Football and a Huge Fan of Cristiano Ronaldo. Proudly from [Kolkata, India](https://goo.gl/maps/NVbn5HYBmpu4deXC6) 🇮🇳
 
 - 🔭 I’m currently studying **Computer Science** at SNU
 - 🌱 I’m currently learning **Machine Learning** and Practicing **Full Stack Web Development**
