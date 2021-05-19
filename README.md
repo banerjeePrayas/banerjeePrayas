@@ -17,10 +17,10 @@ Computer Science student at [Sister Nivedita University](https://snuniv.ac.in/).
 ### 📬 Get in Touch
 
 - GitHub: [https://github.com/banerjeePrayas][github]
-- LinkedIn: [https://www.linkedin.com/in/prayas-banerjee/][LinkedIn]
+- LinkedIn: [https://www.linkedin.com/in/prayas-banerjee/][linkedIn]
 - Site: [https://banerjeeprayas.github.io/][site]
-- Instagram: [https://www.instagram.com/itsme_prayas/][Instagram]
-- Facebook: [https://www.facebook.com/rupanreal7/][Facebook]
+- Instagram: [https://www.instagram.com/itsme_prayas/][instagram]
+- Facebook: [https://www.facebook.com/rupanreal7/][facebook]
 - E-mail: banerjeeprayas.Work@outlook.com
 
 ### 📚 Looking for my Resume? E-Mail me!
@@ -29,3 +29,6 @@ Computer Science student at [Sister Nivedita University](https://snuniv.ac.in/).
 
 [github]: https://github.com/banerjeePrayas
 [site]: https://banerjeeprayas.github.io/
+[linkedIn]: https://www.linkedin.com/in/prayas-banerjee/
+[instagram]: https://www.instagram.com/itsme_prayas/
+[facebook]: https://www.facebook.com/rupanreal7/
