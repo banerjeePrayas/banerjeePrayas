@@ -18,7 +18,7 @@ Computer Science Student at [Sister Nivedita University](https://snuniv.ac.in/).
 
 - GitHub: [https://github.com/banerjeePrayas][github]
 - LinkedIn: [https://www.linkedin.com/in/prayas-banerjee/][linkedIn]
-- Site: [https://banerjeeprayas.github.io/][site]
+- Site: [http://banerjeeprayas.me/][site]
 - Instagram: [https://www.instagram.com/itsme_prayas/][instagram]
 - Facebook: [https://www.facebook.com/rupanreal7/][facebook]
 - E-mail: banerjeeprayas.Work@outlook.com
@@ -28,7 +28,7 @@ Computer Science Student at [Sister Nivedita University](https://snuniv.ac.in/).
 ![Prayas's github stats](https://github-readme-stats.vercel.app/api?username=banerjeePrayas&show_icons=true&hide_border=true)
 
 [github]: https://github.com/banerjeePrayas
-[site]: https://banerjeeprayas.github.io/
+[site]: http://banerjeeprayas.me/
 [linkedIn]: https://www.linkedin.com/in/prayas-banerjee/
 [instagram]: https://www.instagram.com/itsme_prayas/
 [facebook]: https://www.facebook.com/rupanreal7/
