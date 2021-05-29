@@ -1,4 +1,4 @@
-# Hello/Namsakar, I'm Prayas Banerjee 👋
+# Hello / নমস্কার, I'm Prayas Banerjee 👋
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
